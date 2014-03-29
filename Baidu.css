@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+.login{
+	text-align:right;
+	font-size:10px;
+	}
+.btn-link{
+	text-decoration:underline;
+	}
+.bottominfo{
+	position:absolute;
+	bottom:5%;
+	text-align:center;
+	}
+.logo
+{
+	text-align:center;
+	}
+.search
+{
+	margin-bottom:3px}
+div.baiduweishi
+{
+	position:absolute;
+	right:10px;
+	width:230px;
+	height:70px;
+	border-color:#CCC;
+	border-width:1px;
+	border-style:solid;
+	padding:10px 7px 3px 15px;
+	margin-top:20px;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color=#909090,direction=120,strength=4);/*ie*/
+	-moz-box-shadow: 1px 1px 1px #909090;/*firefox*/
+	-webkit-box-shadow: 1px 1px 10px #909090;/*safari或chrome*/
+	box-shadow:1px 1px 1px #909090;/*opera或ie9*/
+	}
+.baiduweishi-img
+{
+	margin-right:20px;
+	float:left;
+	}
+.btn-baiduweishi {
+  color: #ffffff;
+  font-size:12px;
+  text-shadow:none;
+  background-color:#39F;
+  border-style:solid;
+  border-color:#39F;
+  padding:0 10px 0 10px;
+ 
+}
+a.read
+{
+	color:#666;
+	}
